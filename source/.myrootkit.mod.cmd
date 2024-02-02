@@ -1,0 +1,1 @@
+cmd_/home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/myrootkit.mod := printf '%s\n'   src/myrootkit.o ../khook/engine.o ../khook/x86/hook.o ../khook/x86/stub.o | awk '!x[$$0]++ { print("/home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/"$$0) }' > /home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/myrootkit.mod
