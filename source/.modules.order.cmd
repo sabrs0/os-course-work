@@ -1,1 +1,0 @@
-cmd_/home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/modules.order := {   echo /home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/myrootkit.o; :; } > /home/sersab/bmstu_ubu/4_course/os_course/os-course-work/source/modules.order
