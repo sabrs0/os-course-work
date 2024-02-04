@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <linux/signal.h>
+#include <unistd.h>
 int main(){
-    printf("%ld %ld\n", SIGUSR1, SIGUSR2);
+    sleep(300);
     return 0;
 }
